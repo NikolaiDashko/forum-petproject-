@@ -1,0 +1,1 @@
+CREATE SCHEMA `forum_petproject` DEFAULT CHARACTER SET utf8;
